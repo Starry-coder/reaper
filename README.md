@@ -46,10 +46,6 @@ You will be prompted to input the target IP address. Follow the on-screen instru
 - **portscan.py**: Scans target hosts for open ports and service banners.
 - **report.py**: Aggregates results and generates a readable report.
 
-## Example
 
-```bash
-python reaper.py --target 192.168.1.1 --modules portscan,http_check
-```
 
 
