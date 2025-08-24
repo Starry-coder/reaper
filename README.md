@@ -2,7 +2,6 @@
   <img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="Python Version">
   <h1>🕷️ Reaper</h1>
   <p><b>Automated Security Reconnaissance Toolkit</b></p>
-  <img src="https://img.shields.io/github/license/Starry-coder/reaper" alt="License">
 </div>
 
 ---
