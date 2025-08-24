@@ -1,6 +1,7 @@
 import socket
 
 def scan_ports(target):
+    print(f"Scanning ports on {target}...")
     common_ports = [21, 22, 23, 80, 443, 3306, 8080]
     open_ports = []
 
