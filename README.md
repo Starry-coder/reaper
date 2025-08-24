@@ -32,15 +32,12 @@
 
 ## Usage
 
-Run the main script with desired options:
+Run the main script:
 ```bash
-python reaper.py --help
+python reaper.py
 ```
 
-Typical usage:
-```bash
-python reaper.py --target example.com --modules http_check,portscan,passwd_check
-```
+You will be prompted to input the target IP address. Follow the on-screen instructions to proceed with the scan and reporting.
 
 ## Modules
 
